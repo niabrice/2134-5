@@ -1,0 +1,26 @@
+{
+  "name": "2134-5",
+  "version": "0.0.2",
+  "description": "learn express.js to control robots",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niabrice/2134-5.git"
+  },
+  "keywords": [
+    "robots",
+    "express"
+  ],
+  "author": "Nia Brice",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niabrice/2134-5/issues"
+  },
+  "homepage": "https://github.com/niabrice/2134-5#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
